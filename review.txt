@@ -1,3 +1,0 @@
-Category: Client, Remark: The client is satisfied with the service test.
-Category: Optometrist, Remark: The optometrist suggested new lenses. It also required adjustments with the frame.
-Category: Client, Remark: The client is satisfied with the service.
